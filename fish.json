@@ -1,0 +1,22 @@
+[
+    {
+        "_id":1,
+        "scientific_name":"Thunnus thynnus",
+        "common_name":"Atlantic Bluefin Tuna"
+    },
+    {
+        "_id":2,
+        "scientific_name":"Salmo salar",
+        "common_name":"Atlantic Salmon"
+    },
+    {
+        "_id":3,
+        "scientific_name":"Etmopterus perryi",
+        "common_name":"Dwarf Lanternshark"
+    },
+    {
+        "_id":4,
+        "scientific_name":"Pterois antennata",
+        "common_name":"Spot-fin Lionfish"
+    }
+]

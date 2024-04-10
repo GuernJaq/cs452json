@@ -1,0 +1,32 @@
+[
+    {
+        "_id":1,
+        "name":"Johnathan Whitebread",
+        "years_experience":40,
+        "cred_key":1
+    },
+    {
+        "_id":2,
+        "name":"Phineas Underwood",
+        "years_experience":34,
+        "cred_key":2
+    },
+    {
+        "_id":3,
+        "name":"Samuel Underwood",
+        "years_experience":8,
+        "cred_key":3
+    },
+    {
+        "_id":4,
+        "name":"Nagito Komaeda",
+        "years_experience":11,
+        "cred_key":4
+    },
+    {
+        "_id":5,
+        "name":"Adrien Agreste",
+        "years_experience":15,
+        "cred_key":5
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "time_taken":45,
+        "taken_by":1,
+        "weather_desc":"It is cloudy, 67 degrees Fahrenheit."
+    },
+    {
+        "time_taken":87,
+        "taken_by":1,
+        "weather_desc":"It is sunny, 78 degrees Fahrenheit."
+    },
+    {
+        "time_taken":23,
+        "taken_by":2,
+        "weather_desc":"AH THAT SUN THING IS OUT AGAIN. IT IS VERY WARM."
+    },
+    {
+        "time_taken":26,
+        "taken_by":2,
+        "weather_desc":"WHERE DID THE SUN GO? IT IS WINDY AS WELL."
+    },
+    {
+        "time_taken":35,
+        "taken_by":3,
+        "weather_desc":"lot of umbrellas, seems like everyone is feeling under the weather"
+    },
+    {
+        "time_taken":56,
+        "taken_by":3,
+        "weather_desc":"must be sun-day, its hot out"
+    },
+    {
+        "time_taken":69,
+        "taken_by":4,
+        "weather_desc":"The rain is filling me with despair, but soon hope shall triumph!"
+    },
+    {
+        "time_taken":52,
+        "taken_by":4,
+        "weather_desc":"The sun is shining like a beautiful ray of hope."
+    },
+    {
+        "time_taken":19,
+        "taken_by":5,
+        "weather_desc":"It's raining, the model in me wants to shower now."
+    },
+    {
+        "time_taken":61,
+        "taken_by":5,
+        "weather_desc":"Lots of sun out, perfect for a catnap!"
+    }
+]
